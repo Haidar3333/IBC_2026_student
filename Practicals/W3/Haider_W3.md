@@ -71,6 +71,8 @@ I created a script that converts semicolons into commas and saves the results un
 
 input_file="$1"
 output_file="${input_file%.*}_converted.csv"
+>[!WARNING]
+>What do the `%` and `*` characters do here? I suggest you explain your code more in detail in future submissions.  
 
 tr ';' ',' < "$input_file" > "$output_file"
 
@@ -83,6 +85,9 @@ I tested the script using:
 chmod +x Practicals/W3/semicolon_csv_converter.sh
 bash Practicals/W3/semicolon_csv_converter.sh Practicals/W3/file_to_convert.csv
 ```
+>[!WARNING]
+>Why use chmod if you're running the script using `bash` anyways? Make sure you understand what each line of code is doing. 
+
 
 The converted output was:
 
