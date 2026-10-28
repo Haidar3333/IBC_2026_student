@@ -1,0 +1,525 @@
+213-
+214-CHAPTER 8. HYBRIDISM.
+215-
+216:  Distinction between the sterility of first crosses and of hybrids.
+217:  Sterility various in degree, not universal, affected by close
+218-  interbreeding, removed by domestication.
+219:  Laws governing the sterility of hybrids.
+220:  Sterility not a special endowment, but incidental on other
+221-  differences.
+222:  Causes of the sterility of first crosses and of hybrids.
+223-  Parallelism between the effects of changed conditions of life and
+224-  crossing.
+225-  Fertility of varieties when crossed and of their mongrel offspring
+--
+556-regularly, and producing offspring not perfectly like their parents or
+557-variable.
+558-
+559:Sterility has been said to be the bane of horticulture; but on this
+560:view we owe variability to the same cause which produces sterility; and
+561-variability is the source of all the choicest productions of the
+562-garden. I may add, that as some organisms will breed most freely under
+563-the most unnatural conditions (for instance, the rabbit and ferret kept
+--
+1065-difficult, perhaps impossible, to bring forward one case of the hybrid
+1066-offspring of two animals _clearly distinct_ being themselves perfectly
+1067-fertile. Some authors believe that long-continued domestication
+1068:eliminates this strong tendency to sterility: from the history of the
+1069-dog I think there is some probability in this hypothesis, if applied to
+1070-species closely related together, though it is unsupported by a single
+1071-experiment. But to extend the hypothesis so far as to suppose that
+--
+1576-temporarily propagated by cuttings, buds, etc., the importance of the
+1577-crossing both of distinct species and of varieties is immense; for the
+1578-cultivator here quite disregards the extreme variability both of
+1579:hybrids and mongrels, and the frequent sterility of hybrids; but the
+1580-cases of plants not propagated by seed are of little importance to us,
+1581-for their endurance is only temporary. Over all these causes of Change
+1582-I am convinced that the accumulative action of Selection, whether
+--
+7473-HYBRIDISM.
+7474-
+7475-
+7476:Distinction between the sterility of first crosses and of hybrids.
+7477:Sterility various in degree, not universal, affected by close
+7478:interbreeding, removed by domestication. Laws governing the sterility
+7479:of hybrids. Sterility not a special endowment, but incidental on other
+7480:differences. Causes of the sterility of first crosses and of hybrids.
+7481-Parallelism between the effects of changed conditions of life and
+7482-crossing. Fertility of varieties when crossed and of their mongrel
+7483-offspring not universal. Hybrids and mongrels compared independently of
+--
+7486-
+7487-The view generally entertained by naturalists is that species, when
+7488-intercrossed, have been specially endowed with the quality of
+7489:sterility, in order to prevent the confusion of all organic forms. This
+7490-view certainly seems at first probable, for species within the same
+7491-country could hardly have kept distinct had they been capable of
+7492-crossing freely. The importance of the fact that hybrids are very
+7493-generally sterile, has, I think, been much underrated by some late
+7494-writers. On the theory of natural selection the case is especially
+7495:important, inasmuch as the sterility of hybrids could not possibly be
+7496-of any advantage to them, and therefore could not have been acquired by
+7497-the continued preservation of successive profitable degrees of
+7498:sterility. I hope, however, to be able to show that sterility is not a
+7499-specially acquired or endowed quality, but is incidental on other
+7500-acquired differences.
+7501-
+7502-In treating this subject, two classes of facts, to a large extent
+7503-fundamentally different, have generally been confounded together;
+7504:namely, the sterility of two
+7505:species when first crossed, and the sterility of the hybrids produced
+7506-from them.
+7507-
+7508-Pure species have of course their organs of reproduction in a perfect
+--
+7514-case the two sexual elements which go to form the embryo are perfect;
+7515-in the second case they are either not at all developed, or are
+7516-imperfectly developed. This distinction is important, when the cause of
+7517:the sterility, which is common to the two cases, has to be considered.
+7518:The distinction has probably been slurred over, owing to the sterility
+7519-in both cases being looked on as a special endowment, beyond the
+7520-province of our reasoning powers.
+7521-
+7522-The fertility of varieties, that is of the forms known or believed to
+7523-have descended from common parents, when intercrossed, and likewise the
+7524-fertility of their mongrel offspring, is, on my theory, of equal
+7525:importance with the sterility of species; for it seems to make a broad
+7526-and clear distinction between varieties and species.
+7527-
+7528:First, for the sterility of species when crossed and of their hybrid
+7529-offspring. It is impossible to study the several memoirs and works of
+7530-those two conscientious and admirable observers, Kölreuter and Gärtner,
+7531-who almost devoted their lives to this subject, without being deeply
+7532:impressed with the high generality of some degree of sterility.
+7533-Kölreuter makes the rule universal; but then he cuts the knot, for in
+7534-ten cases in which he found two forms, considered by most authors as
+7535-distinct species, quite fertile together, he
+--
+7537-equally universal; and he disputes the entire fertility of Kölreuter’s
+7538-ten cases. But in these and in many other cases, Gärtner is obliged
+7539-carefully to count the seeds, in order to show that there is any degree
+7540:of sterility. He always compares the maximum number of seeds produced
+7541-by two species when crossed and by their hybrid offspring, with the
+7542-average number produced by both pure parent-species in a state of
+7543-nature. But a serious cause of error seems to me to be here introduced:
+--
+7562-intercrossed, as Gärtner believes.
+7563-
+7564-
+7565:It is certain, on the one hand, that the sterility of various species
+7566-when crossed is so different in degree and graduates away so
+7567-insensibly, and, on the other hand, that the fertility of pure species
+7568-is so easily affected by various circumstances, that for all practical
+7569-purposes it is most difficult to say where perfect fertility ends and
+7570:sterility begins. I think no better evidence of this can be required
+7571-than that the two most experienced observers who have ever lived,
+7572-namely, Kölreuter and Gärtner, should have arrived at diametrically
+7573-opposite conclusions in regard to the very same species. It is also
+--
+7576-whether certain doubtful forms should be ranked as species or
+7577-varieties, with the evidence from fertility adduced by different
+7578-hybridisers, or by the same author, from experiments made during
+7579:different years. It can thus be shown that neither sterility nor
+7580-fertility affords any clear distinction between species and varieties;
+7581-but that the evidence from this source graduates away, and is doubtful
+7582-in the same degree as is the evidence derived from other constitutional
+7583-and structural differences.
+7584-
+7585:In regard to the sterility of hybrids in successive generations; though
+7586-Gärtner was enabled to rear some hybrids, carefully guarding them from
+7587-a cross with either pure parent, for six or seven, and in one case for
+7588-ten generations, yet he asserts positively that their fertility never
+--
+7624-hybridiser, namely, the Honourable and
+7625-Reverend W. Herbert. He is as emphatic in his conclusion that some
+7626-hybrids are perfectly fertile—as fertile as the pure parent-species—as
+7627:are Kölreuter and Gärtner that some degree of sterility between
+7628-distinct species is a universal law of nature. He experimentised on
+7629-some of the very same species as did Gärtner. The difference in their
+7630-results may, I think, be in part accounted for by Herbert’s great
+--
+7715-contrary, brothers and sisters have usually been crossed in each
+7716-successive generation, in opposition to the constantly repeated
+7717-admonition of every breeder. And in this case, it is not at all
+7718:surprising that the inherent sterility in the hybrids should have gone
+7719-on increasing. If we were to act thus, and pair brothers and sisters in
+7720-the case of any pure animal, which from any cause had the least
+7721:tendency to sterility, the breed would assuredly be lost in a very few
+7722-generations.
+7723-
+7724-Although I do not know of any thoroughly well-authenticated cases of
+--
+7756-together; but from facts communicated to me by Mr. Blyth, I think they
+7757-must be considered as distinct species. On this view of the origin of
+7758-many of our domestic animals, we must either give up the belief of the
+7759:almost universal sterility of distinct species of animals when crossed;
+7760:or we must look at sterility, not as an indelible characteristic, but
+7761-as one capable of being removed by domestication.
+7762-
+7763-Finally, looking to all the ascertained facts on the intercrossing of
+7764:plants and animals, it may be concluded that some degree of sterility,
+7765-both in first crosses and in hybrids,is an extremely general result;
+7766-but that it cannot, under our present state of knowledge, be considered
+7767-as absolutely universal.
+7768-
+7769:_Laws governing the Sterility of first Crosses and of Hybrids_.—We will
+7770-now consider a little more in detail the
+7771:circumstances and rules governing the sterility of first crosses and of
+7772-hybrids. Our chief object will be to see whether or not the rules
+7773-indicate that species have specially been endowed with this quality, in
+7774-order to prevent their crossing and blending together in utter
+--
+7798-parent-species causing the flower of the hybrid to wither earlier than
+7799-it otherwise would have done; and the early withering of the flower is
+7800-well known to be a sign
+7801:of incipient fertilisation. From this extreme degree of sterility we
+7802-have self-fertilised hybrids producing a greater and greater number of
+7803-seeds up to perfect fertility.
+7804-
+7805-Hybrids from two species which are very difficult to cross, and which
+7806-rarely produce any offspring, are generally very sterile; but the
+7807-parallelism between the difficulty of making a first cross, and the
+7808:sterility of the hybrids thus produced—two classes of facts which are
+7809-generally confounded together—is by no means strict. There are many
+7810-cases, in which two pure species can be united with unusual facility,
+7811-and produce numerous hybrid-offspring, yet these hybrids are remarkably
+--
+7924-fertility.
+7925-
+7926-Now do these complex and singular rules indicate that species have been
+7927:endowed with sterility simply to prevent their becoming confounded in
+7928:nature? I think not. For why should the sterility be so extremely
+7929-different in degree, when various species are crossed, all of which we
+7930-must suppose it would be equally important to keep from blending
+7931:together? Why should the degree of sterility be innately variable in
+7932-the individuals of the same species? Why should some species cross with
+7933-facility, and yet produce very sterile hybrids; and other species cross
+7934-with extreme difficulty, and yet produce fairly fertile hybrids? Why
+--
+7936-reciprocal cross between the same two species? Why, it may even be
+7937-asked, has the production of hybrids been permitted? to grant to
+7938-species the special power of producing hybrids, and then to stop their
+7939:further propagation by different degrees of sterility, not strictly
+7940-related to the facility of the first union between their parents, seems
+7941-to be a strange arrangement.
+7942-
+7943-The foregoing rules and facts, on the other hand, appear to me clearly
+7944:to indicate that the sterility both of first crosses and of hybrids is
+7945-simply incidental or dependent on unknown differences, chiefly in the
+7946-reproductive systems, of the species which are crossed. The differences
+7947-being of so peculiar and limited a nature,
+7948-that, in reciprocal crosses between two species the male sexual element
+7949-of the one will often freely act on the female sexual element of the
+7950-other, but not in a reversed direction. It will be advisable to explain
+7951:a little more fully by an example what I mean by sterility being
+7952-incidental on other differences, and not a specially endowed quality.
+7953-As the capacity of one plant to be grafted or budded on another is so
+7954-entirely unimportant for its welfare in a state of nature, I presume
+--
+7985-be grafted on the currant, whereas the currant will take, though with
+7986-difficulty, on the gooseberry.
+7987-
+7988:We have seen that the sterility of hybrids, which have their
+7989-reproductive organs in an imperfect condition, is a very different case
+7990-from the difficulty of uniting two pure species, which have their
+7991-reproductive organs perfect; yet these two distinct cases run to a
+--
+8018-difficulty is as important for the endurance and stability of specific
+8019-forms, as in the case of grafting it is unimportant for their welfare.
+8020-
+8021:_Causes of the Sterility of first Crosses and of Hybrids_.—We may now
+8022:look a little closer at the probable causes of the sterility of first
+8023-crosses and of hybrids. These two cases are fundamentally different,
+8024-for, as just remarked, in the union of two pure species the male and
+8025-female sexual elements are perfect, whereas in hybrids they are
+--
+8039-This latter alternative has not been sufficiently attended to; but I
+8040-believe, from observations communicated to me by Mr. Hewitt, who has
+8041-had great experience in hybridising gallinaceous birds, that the early
+8042:death of the embryo is a very frequent cause of sterility in first
+8043-crosses. I was at first very unwilling to believe in this view; as
+8044-hybrids, when once born, are generally healthy and long-lived, as we
+8045-see in the case of the common mule. Hybrids, however, are differently
+--
+8053-period; more especially as all very young beings seem eminently
+8054-sensitive to injurious or unnatural conditions of life.
+8055-
+8056:In regard to the sterility of hybrids, in which the sexual elements are
+8057-imperfectly developed, the case is very different. I have more than
+8058-once alluded to a large body of facts, which I have collected, showing
+8059-that when animals and plants are removed from their natural conditions,
+8060-they are extremely liable to have their reproductive systems seriously
+8061-affected. This, in fact, is
+8062:the great bar to the domestication of animals. Between the sterility
+8063-thus superinduced and that of hybrids, there are many points of
+8064:similarity. In both cases the sterility is independent of general
+8065-health, and is often accompanied by excess of size or great luxuriance.
+8066:In both cases, the sterility occurs in various degrees; in both, the
+8067-male element is the most liable to be affected; but sometimes the
+8068-female more than the male. In both, the tendency goes to a certain
+8069-extent with systematic affinity, for whole groups of animals and plants
+--
+8078-Lastly, when organic beings are placed during several generations under
+8079-conditions not natural to them, they are extremely liable to vary,
+8080-which is due, as I believe, to their reproductive systems having been
+8081:specially affected, though in a lesser degree than when sterility
+8082-ensues. So it is with hybrids, for hybrids in successive generations
+8083-are eminently liable to vary, as every experimentalist has observed.
+8084-
+8085-Thus we see that when organic beings are placed under new and unnatural
+8086-conditions, and when hybrids are produced by the unnatural crossing of
+8087-two species, the reproductive system, independently of the general
+8088:state of health, is affected by sterility in a very similar manner. In
+8089-the one case, the conditions of life have been disturbed, though often
+8090-in so slight a degree as to
+8091-be inappreciable by us; in the other case, or that of hybrids, the
+--
+8097-of the different parts and organs one to another, or to the conditions
+8098-of life. When hybrids are able to breed _inter se_, they transmit to
+8099-their offspring from generation to generation the same compounded
+8100:organisation, and hence we need not be surprised that their sterility,
+8101-though in some degree variable, rarely diminishes.
+8102-
+8103-It must, however, be confessed that we cannot understand, excepting on
+8104:vague hypotheses, several facts with respect to the sterility of
+8105-hybrids; for instance, the unequal fertility of hybrids produced from
+8106:reciprocal crosses; or the increased sterility in those hybrids which
+8107-occasionally and exceptionally resemble closely either pure parent. Nor
+8108-do I pretend that the foregoing remarks go to the root of the matter:
+8109-no explanation is offered why an organism, when placed under unnatural
+8110-conditions, is rendered sterile. All that I have attempted to show, is
+8111:that in two cases, in some respects allied, sterility is the common
+8112-result,—in the one case from the conditions of life having been
+8113-disturbed, in the other case from the organisation having been
+8114-disturbed by two organisations having been compounded into one.
+--
+8130-hermaphrodites; and that close interbreeding continued during several
+8131-generations between the nearest relations, especially if these be kept
+8132-under the same conditions of life, always induces weakness and
+8133:sterility in the progeny.
+8134-
+8135-Hence it seems that, on the one hand, slight changes in the conditions
+8136-of life benefit all organic beings, and on the other hand, that slight
+--
+8179-less remarkable than
+8180-at first appears. It can, in the first place, be clearly shown that
+8181-mere external dissimilarity between two species does not determine
+8182:their greater or lesser degree of sterility when crossed; and we may
+8183-apply the same rule to domestic varieties. In the second place, some
+8184-eminent naturalists believe that a long course of domestication tends
+8185:to eliminate sterility in the successive generations of hybrids, which
+8186-were at first only slightly sterile; and if this be so, we surely ought
+8187:not to expect to find sterility both appearing and disappearing under
+8188-nearly the same conditions of life. Lastly, and this seems to me by far
+8189-the most important consideration, new races of animals and plants are
+8190-produced under domestication by man’s methodical and unconscious power
+--
+8203-
+8204-I have as yet spoken as if the varieties of the same species were
+8205-invariably fertile when intercrossed. But it seems to me impossible to
+8206:resist the evidence of the existence of a certain amount of sterility
+8207-in the few following cases, which I will briefly abstract. The evidence
+8208-is at least as good as that from which we believe
+8209:in the sterility of a multitude of species. The evidence is, also,
+8210-derived from hostile witnesses, who in all other cases consider
+8211:fertility and sterility as safe criterions of specific distinction.
+8212-Gärtner kept during several years a dwarf kind of maize with yellow
+8213-seeds, and a tall variety with red seeds, growing near each other in
+8214-his garden; and although these plants have separated sexes, they never
+--
+8271-to form a fundamental distinction between varieties and species. The
+8272-general fertility of varieties does not seem to me sufficient to
+8273-overthrow the view which I have taken with respect to the very general,
+8274:but not invariable, sterility of first crosses and of hybrids, namely,
+8275-that it is not a special endowment, but is incidental on slowly
+8276-acquired modifications, more especially in the reproductive systems of
+8277-the forms which are crossed.
+--
+8383-in the union of individuals of the same variety, or of different
+8384-varieties, or of distinct species.
+8385-
+8386:Laying aside the question of fertility and sterility, in all other
+8387-respects there seems to be a general and close similarity in the
+8388-offspring of crossed species, and of crossed varieties. If we look at
+8389-species as having been specially created, and at varieties as having
+--
+8393-
+8394-_Summary of Chapter_.—First crosses between forms sufficiently distinct
+8395-to be ranked as species, and their hybrids, are very generally, but not
+8396:universally, sterile. The sterility is of all degrees, and is often so
+8397-slight that the two most careful experimentalists who have ever lived,
+8398-have come to diametrically opposite conclusions in ranking forms by
+8399:this test. The sterility is innately variable in individuals of the
+8400-same species, and is eminently susceptible of favourable and
+8401:unfavourable conditions. The degree of sterility does not strictly
+8402-follow systematic affinity, but is governed by several curious and
+8403-complex laws. It is generally different, and sometimes widely
+8404-different, in reciprocal crosses between the same two species. It is
+--
+8411-less facility of one species to unite with another, is incidental on
+8412-unknown differences in their reproductive systems. There is no more
+8413-reason to think that species have been specially endowed with various
+8414:degrees of sterility to prevent them crossing and blending in nature,
+8415-than to think that trees have been specially endowed with various and
+8416-somewhat analogous degrees of difficulty in being grafted together in
+8417-order to prevent them becoming inarched in our forests.
+8418-
+8419:The sterility of first crosses between pure species, which have their
+8420-reproductive systems perfect, seems
+8421-to depend on several circumstances; in some cases largely on the early
+8422:death of the embryo. The sterility of hybrids, which have their
+8423-reproductive systems imperfect, and which have had this system and
+8424-their whole organisation disturbed by being compounded of two distinct
+8425:species, seems closely allied to that sterility which so frequently
+8426-affects pure species, when their natural conditions of life have been
+8427-disturbed. This view is supported by a parallelism of another
+8428-kind;—namely, that the crossing of forms only slightly different is
+--
+8430-slight changes in the conditions of life are apparently favourable to
+8431-the vigour and fertility of all organic beings. It is not surprising
+8432-that the degree of difficulty in uniting two species, and the degree of
+8433:sterility of their hybrid-offspring should generally correspond, though
+8434-due to distinct causes; for both depend on the amount of difference of
+8435-some kind between the species which are crossed. Nor is it surprising
+8436-that the facility of effecting a first cross, the fertility of the
+--
+13731-castes of workers or sterile females in the same community of ants; but
+13732-I have attempted to show how this difficulty can be mastered.
+13733-
+13734:With respect to the almost universal sterility of species when first
+13735-crossed, which forms so remarkable a contrast with the almost universal
+13736-fertility of varieties when crossed, I must refer the reader to the
+13737-recapitulation of the facts given at the end of the eighth chapter,
+13738:which seem to me conclusively to show that this sterility is no more a
+13739-special endowment than is the incapacity of two trees to be grafted
+13740-together, but that it is incidental on constitutional differences in
+13741-the reproductive systems of the intercrossed species. We see the truth
+--
+13750-profoundly modified. Moreover, most of the
+13751-varieties which have been experimentised on have been produced under
+13752-domestication; and as domestication apparently tends to eliminate
+13753:sterility, we ought not to expect it also to produce sterility.
+13754-
+13755:The sterility of hybrids is a very different case from that of first
+13756-crosses, for their reproductive organs are more or less functionally
+13757-impotent; whereas in first crosses the organs on both sides are in a
+13758-perfect condition. As we continually see that organisms of all kinds
+--
+14341-course of long ages is a limited quantity; no clear distinction has
+14342-been, or can be, drawn between species and well-marked varieties. It
+14343-cannot be maintained that species when intercrossed are invariably
+14344:sterile, and varieties invariably fertile; or that sterility is a
+14345-special endowment and sign of creation. The belief that species were
+14346-immutable productions was almost unavoidable as long as the history of
+14347-the world was thought to be of short duration; and now that we have
+--
+14651-
+14652-Ammonites, sudden extinction of, 321.
+14653-
+14654:Anagallis, sterility of, 247.
+14655-
+14656-Analogy of variations, 159.
+14657-
+--
+14817-
+14818-Buckman on variation in plants, 10.
+14819-
+14820:Buzareingues on sterility of varieties, 270.
+14821-
+14822-Cabbage, varieties of, crossed, 99.
+14823-
+14824-Calceolaria, 251.
+14825-
+14826:Canary-birds, sterility of hybrids, 252.
+14827-
+14828-Cape de Verde islands, 398.
+14829-
+--
+15194-Game, increase of, checked by vermin, 68.
+15195-
+15196-Gärtner:
+15197:on sterility of hybrids, 247, 255.
+15198-on reciprocal crosses, 258.
+15199-on crossed maize and verbascum, 270.
+15200-on comparison of hybrids and mongrels, 272.
+--
+15298-
+15299-Herbert, W.:
+15300-on struggle for existence, 62.
+15301:on sterility of hybrids, 249.
+15302-
+15303-Hermaphrodites crossing, 96.
+15304-
+--
+15308-
+15309-Heusinger on white animals not poisoned by certain plants, 12.
+15310-
+15311:Hewitt, Mr., on sterility of first crosses, 264.
+15312-
+15313-Himalaya:
+15314-glaciers of, 373.
+--
+15430-
+15431-Kölreuter:
+15432-on the barberry, 98.
+15433:on sterility of hybrids, 247.
+15434-on reciprocal crosses, 258.
+15435-on crossed varieties of nicotiana, 271.
+15436-on crossing male and hermaphrodite flowers, 451.
+--
+15469-
+15470-Lobelia fulgens, 73, 98.
+15471-
+15472:Lobelia, sterility of crosses, 250.
+15473-
+15474-Loess of the Rhine, 384.
+15475-
+--
+15573-Moles, blind, 137.
+15574-
+15575-Mongrels:
+15576:fertility and sterility of, 267.
+15577-and hybrids compared, 272.
+15578-
+15579-Monkeys, fossil, 303,
+--
+15714-
+15715-Pelargonium:
+15716-flowers of, 145.
+15717:sterility of, 251.
+15718-
+15719-Pelvis of women, 144.
+15720-
+--
+15784-Prestwich, Mr., on English and French eocene formations, 328.
+15785-
+15786-Primrose, 49.
+15787:sterility of, 247.
+15788-
+15789-Primula, varieties of, 49.
+15790-
+--
+15839-law of inheritance, 14.
+15840-in pigeons to blue colour, 160.
+15841-
+15842:Rhododendron, sterility of, 251.
+15843-
+15844-Richard, Professor, on Aspicarpa, 417.
+15845-
+--
+15965-
+15966-Stag-beetles, fighting, 88.
+15967-
+15968:Sterility:
+15969-from changed conditions of life, 9.
+15970-of hybrids, 246.
+15971-laws of, 254.
+--
+16122-classification of, 423.
+16123-
+16124-Verbascum:
+16125:sterility of, 251.
+16126-varieties of, crossed, 270.
+16127-
+16128-Verneuil, M. de, on the succession of species, 325.
