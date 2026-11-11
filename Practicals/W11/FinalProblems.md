@@ -84,3 +84,7 @@ The Use of Multiple Measurements in Taxonomic Problems.
 Annals of Eugenics, 7, 179-188.
 
 https://doi.org/10.1111/j.1469-1809.1936.tb02137.x
+
+### Original Figure Image
+
+![Original published Figure 1.4](original_figure.png)
